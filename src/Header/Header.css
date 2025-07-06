@@ -15,10 +15,13 @@
   }
 }
 
-.navbar-brand {
+.navbar-brand{
   display: block;
-  text-align: center;
-  margin-left: 200px;
+  
+  margin-left: 120px;
+
+ 
+
 }
 
 
