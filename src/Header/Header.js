@@ -20,7 +20,7 @@ export const Header = () => {
   return (<>
   <nav className={`navbar d-flex flex-now mainNavbar  container-fluid navbar-expand-lg sticky-top mb-3 ${scrolled ? "bg-white":"bg-light" }`}>
     <div className="container-fluid d-flex flex-nowwrap ">
-      <a className="navbar-brand    fw-bolder fs-6 " href="#">SAITEJA</a>
+      <a className="navbar-brand    fw-bolder fs-6 " href="#">SAITEJAS</a>
 
      <button
   className="navbar-toggler"
