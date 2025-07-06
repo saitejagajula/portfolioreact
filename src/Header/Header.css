@@ -16,11 +16,9 @@
 }
 
 .navbar-brand{
-  display: block;
-  
-  margin-left: 120px;
 
- 
+ margin-left: 120px;
+
 
 }
 
@@ -29,6 +27,7 @@
   .navbar-brand {
     margin-left: 8 rem; 
     text-align: center;
-     margin-left: 150px
+     margin-left: 150px;
+     display: block;
   }
 }
