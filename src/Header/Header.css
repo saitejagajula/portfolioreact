@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+  .navbar-nav {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    width: 100%;
+  }
+
+  .navbar-nav .nav-item {
+    margin: 0;
+  }
+
+  .navbar-nav .nav-link {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+}
+
+.navbar-brand {
+  display: block;
+  text-align: center;
+  margin-left: 200px;
+}
+
+
+@media (min-width: 768px) and (max-width: 1399.98px) {
+  .navbar-brand {
+    margin-left: 8 rem; 
+    text-align: center;
+     margin-left: 150px
+  }
+}
